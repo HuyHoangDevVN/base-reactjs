@@ -111,6 +111,7 @@ Nếu thiếu biến hoặc sai định dạng, ứng dụng sẽ báo lỗi và
 ## Người đóng góp
 
 - [HuyHoangDevVN](https://github.com/HuyHoangDevVN)
+- [yukiharadev](https://github.com/yukiharadev)
 
 ---
 
